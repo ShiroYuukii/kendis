@@ -4,4 +4,5 @@ export default [
   "jangan sedih teruzz T-T",
   "pacar aku pasti jadi maba ugm kokk!!",
   "percayaa deh ama aku!"
+  "#kesya devia untuk maba ugm 2025"
 ];
