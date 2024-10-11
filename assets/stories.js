@@ -1,6 +1,7 @@
 export default [
-  "Hi!",
-  "Klik next ya!",
-  "Udah itu aja",
-  "Aku sayang kamu!"
+  "hyyy, sayaang",
+  "klik next ya!",
+  "jangan sedih teruzz T-T",
+  "pacar aku pasti jadi maba ugm kokk!!",
+  "percayaa deh ama aku!"
 ];
