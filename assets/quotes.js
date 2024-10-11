@@ -1,10 +1,9 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Whatever happens, keep breathing" },
-    { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
-    { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I'm sorry for loving you." },
+    { author: "azri", quotes: "let me hug u for a long long time," },
+    { author: "azri", quotes: "do not overthinking about it, kak" },
+    { author: "azri", quotes: "xoxo" },
+    { author: "azri", quotes: "i love you, to the moon & back" },
+    { author: "azri", quotes: "kiss me more," },
+    { author: "azri", quotes: "im always here for u, kak" },
 ];
